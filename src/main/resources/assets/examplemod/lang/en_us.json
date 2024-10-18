@@ -1,5 +1,5 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item"
+  "itemGroup.advanced_material_sciences": "Advanced Material Sciences",
+  "block.advanced_material_sciences.frobblestone_block": "Frobblestone",
+  "item.advanced_material_sciences.frobblestone_shard": "Example Item"
 }
