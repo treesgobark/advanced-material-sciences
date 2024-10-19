@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "advanced_material_sciences:item/frobblestone_shard"
+  }
+}
