@@ -1,4 +1,4 @@
-package com.treesgobark.advanced_material_sciences;
+package com.treesgobark.advanced_material_sciences.common;
 
 import java.util.List;
 import java.util.Set;

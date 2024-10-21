@@ -7,7 +7,7 @@ import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;
 import net.neoforged.neoforge.data.event.GatherDataEvent;
 
-import static com.treesgobark.advanced_material_sciences.AdvancedMaterialSciences.MODID;
+import static com.treesgobark.advanced_material_sciences.common.AdvancedMaterialSciences.MODID;
 
 @EventBusSubscriber(modid = MODID, bus = EventBusSubscriber.Bus.MOD)
 public class RegisterProviders

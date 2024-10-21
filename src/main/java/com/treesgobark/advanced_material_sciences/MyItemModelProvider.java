@@ -1,5 +1,7 @@
 package com.treesgobark.advanced_material_sciences;
 
+import com.treesgobark.advanced_material_sciences.common.AdvancedMaterialSciences;
+import com.treesgobark.advanced_material_sciences.common.items.AMSItems;
 import net.minecraft.data.PackOutput;
 import net.minecraft.world.item.Item;
 import net.neoforged.neoforge.client.model.generators.ItemModelProvider;
@@ -12,7 +14,7 @@ public class MyItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-        Item item = AdvancedMaterialSciences.FROBBLESTONE_SHARD.asItem();
+        Item item = AMSItems.FROBBLESTONE_SHARD.asItem();
         basicItem(item);
     }
 }
